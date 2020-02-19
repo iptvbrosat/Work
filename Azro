@@ -2,4 +2,4 @@
 #EXTINF:0 group-title="Astro",citra
 http://pmtv.dynu.net:80/hypptv1080/smarttv.php?playurl=http://50.7.161.82:8278/Citra/playlist.m3u8
 #EXTINF:0 group-title="Astro",prima
-http://pmtv.dynu.net:80/hypptv1080/smarttv.php?playurl=http://50.7.161.82:8278/Citra/playlist.m3u8
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641811161f617739999&tsum=85006fba5796cdb9c88758eec06b8bc8
