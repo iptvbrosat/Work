@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:0 group-title="Astro",citra
-http://pmtv.dynu.net:80/hypptv1080/smarttv.php?playurl=http://50.7.161.82:8278/Citra/playlist.m3u8
-#EXTINF:0 group-title="Astro",prima
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641811161f617739999&tsum=85006fba5796cdb9c88758eec06b8bc8
+#EXTINF:0 group-title="Astro",prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f611664999&tsum=d3692ff0ec35cbd9e7aba43a93c951e5
+#EXTINF:0 group-title="Astro",ria
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m0641811161f616137999&tsum=8a84c99962b23a0b24ff14dee0a6ec87
+#EXTINF:0 group-title="Astro",warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m0641811161f615057999&tsum=508b07c67d71addd67d5e744b7dabcb9
