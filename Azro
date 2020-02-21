@@ -15,7 +15,7 @@ https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000
 http://190.2.155.140:8278/TV3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Astro",NTV7 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Astro" TV8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Astro"TV8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Astro",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
@@ -36,8 +36,8 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641811161f617739999&tsum=85006fba5796cdb9c88758eec06b8bc8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Astro",Astro Prima
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f611664999&tsum=d3692ff0ec35cbd9e7aba43a93c951e5
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300" group-title="Astro",Astro Ria
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="Astro",Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m0641811161f616137999&tsum=8a84c99962b23a0b24ff14dee0a6ec87
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300" group-title="Astro",Astro warna
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="Astro",Astro warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m0641811161f615057999&tsum=508b07c67d71addd67d5e744b7dabcb9
 
