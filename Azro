@@ -42,6 +42,13 @@ http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f611664999&tsum=d3692
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m0641811161f616137999&tsum=8a84c99962b23a0b24ff14dee0a6ec87
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="Astro",Astro warna
 http://tvku.live:8888/rs378/2992/4348
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Astro",TV1 BACKUP
+http://tvku.live:8888/rs378/2992/2262
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Astro",TV2 BACKUP
+http://tvku.live:8888/rs378/2992/2263
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="Astro",TV3 BACKUP
+http://tvku.live:8888/rs378/2992/2264
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Astro",TV8 BACKUP
+http://tvku.live:8888/rs378/2992/2333
 
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m0641811161f615057999&tsum=508b07c67d71addd67d5e744b7dabcb9
 
