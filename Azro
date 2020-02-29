@@ -37,7 +37,7 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m0641811161f618171999&tsum=10279
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_300.png" group-title="Astro",Astro Citra
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641811161f617739999&tsum=85006fba5796cdb9c88758eec06b8bc8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Astro",Astro Prima
-http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f611664999&tsum=d3692ff0ec35cbd9e7aba43a93c951e5
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f613158999&tsum=867d62757b0b533f7f7601343efa053b
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="Astro",Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m0641811161f616137999&tsum=8a84c99962b23a0b24ff14dee0a6ec87
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="Astro",Astro warna
