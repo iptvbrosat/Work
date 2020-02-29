@@ -42,5 +42,5 @@ http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m0641811161f613158999&tsum=867d6
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m0641811161f617667999&tsum=c4d659344dde6c77ae74b8381e22b960
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="Astro",Astro warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m0641811161f610323999&tsum=ffefceb904c04b8565a8ee8b53b808a8
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/RgJQWhUpHLUZj3S77" group-title="Astro",Astro Boo
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Astro",Astro Boo
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m0641811161f613419999&tsum=4920eb699a07f9a65103883618cd6bfe
