@@ -49,5 +49,218 @@ http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m0641811161f617055999&tsum=ca5e7
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/821_300.png" group-title="Astro",WWE
 http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=382e06c9d2571cae61c1910d6638787b
 
+Singapore
+#EXTINF:-1, group-title="Singapore", Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1, group-title="Singapore", Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+
+Indonesia
+#EXTINF:-1, group-title="Indonesia", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1, group-title="Indonesia", RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", Global TV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1, group-title="Indonesia", TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+
+News
+#EXTINF:-1, group-title="News", Aljazeera English
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1, group-title="News", Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1, group-title="News", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1, group-title="News", CNN indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1918942433_b384000_sleng.m3u8
+#EXTINF:-1, group-title="News", NHK World
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1, group-title="News", RT UK
+http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
+#EXTINF:-1, group-title="News", Berita RTM
+https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+
+
+Documentary
+#EXTINF:-1, group-title="Documentary", National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1, group-title="Documentary", National Geographic Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1, group-title="Documentary", National Geographic People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1, group-title="Documentary", History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1, group-title="Documentary", History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1, group-title="Documentary", Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+#EXTINF:-1, group-title="Documentary", Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Documentary", Animal Planet
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
+
+
+Malaysia
+#EXTINF:-1, group-title="Malaysia", TV1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1, group-title="Malaysia", TV2
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1, group-title="Malaysia", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1, group-title="Malaysia", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+#EXTINF:-1, group-title="Malaysia", AWANI
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1, group-title="Malaysia", DRAMA SANGAT
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1, group-title="Malaysia", NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+
+Movies
+#EXTINF:-1, group-title="Movies", Star Gold
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Movies", Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1, group-title="Movies", Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1, group-title="Movies", MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1, group-title="Movies", MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:-1, group-title="Movies", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1, group-title="Movies", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1, group-title="Movies", Fox Movies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="Movies", HBO Hits
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+
+
+Sports
+#EXTINF:-1, group-title="Sport", True Premier 1 TH
+https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+#EXTINF:-1, group-title="Sport", True Premier 2 TH
+https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+#EXTINF:-1, group-title="Sport", True Premier 3 TH
+https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
+#EXTINF:-1, group-title="Sport", True Premier 4 TH
+https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
+#EXTINF:-1, group-title="Sport", True Premier 5 TH
+https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
+#EXTINF:-1, group-title="Sport", BT Sport 1 TH
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1, group-title="Sport", BT Sport 2 TH
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1, group-title="Sport", PPTV TH
+http://146.88.46.49:9998/stream/channelid/143415021?profile=pass
+#EXTINF:-1, group-title="Sport", Thairath TV TH
+http://146.88.46.49:9998/stream/channelid/779118377?profile=pass
+#EXTINF:-1, group-title="Sport", Bein 1 TH
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
+#EXTINF:-1, group-title="Sport", Bein 2 TH
+https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+
+#EXTINF:-1, group-title="Sport", Setanta Sports
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF:-1, group-title="Sport", Sky Sport 1 DE
+http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
+#EXTINF:-1, group-title="Sport", Sky Sport 2 DE
+http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
+
+#EXTINF:-1, group-title="Sport", Sky Sports Football UK
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1, group-title="Sport", Sky Sports Premier League UK
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1, group-title="Sport", Sky Sports Main Event UK
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+
+#EXTINF:-1, group-title="Sport", NewTV Super Sports CN
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1, group-title="Sport", CCTV 5 CN
+http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1, group-title="Sport", CCTV 5+ CN
+http://111.40.205.76/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1, group-title="Sport", BES TV CN
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+
+#EXTINF:-1, group-title="Sport", CCTV Sports CN
+rtmp://59.124.75.156/sat/cn041
+#EXTINF:-1, group-title="Sport", GDTY CN
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1, group-title="Sport", Fox Sports 1 Asia
+rtmp://59.124.75.156/sat/tv731
+#EXTINF:-1, group-title="Sport", Fox Sports 2 Asia
+rtmp://59.124.75.156/sat/tv741
+#EXTINF:-1, group-title="Sport", Fox Sports 506 AU
+http://45.58.62.92:8081
+#EXTINF:-1, group-title="Sport", Bein Sports 2 HK
+rtmp://59.124.75.156/sat/hk011
+
+#EXTINF:-1, group-title="Sport", RTM Sports
+https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1, group-title="Sport", Canal+ Sport
+http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#EXTINF:-1, group-title="Sport", RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+
+#EXTINF:-1, group-title="Sport", Match Football 1 RU
+http://188.35.9.9:2010
+#EXTINF:-1, group-title="Sport", Match Football 2 RU
+http://188.35.9.9:2011
+#EXTINF:-1, group-title="Sport", Match Football 3 RU
+http://188.35.9.9:2012
+#EXTINF:-1, group-title="Sport", Match Premier RU
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1, group-title="Sport", Setanta Sport RU
+http://188.35.9.10:2028
+
+#EXTINF:-1, group-title="Sport", SBS Sports KR
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+#EXTINF:-1, group-title="Sport", MBC Sports Plus KR
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+
+#EXTINF:-1, group-title="Sport", EPT Sports
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+
+#EXTINF:-1, group-title="Sport", Sport Digital
+http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
+
+#EXTINF:-1, group-title="Sport", EUROSPORT 1 UK
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Sport", EUROSPORT 2 UK
+http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
+
+
+
+
+Backup
+#EXTINF:-1, group-title="Backup", Premier Football 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
+#EXTINF:-1, group-title="Backup", Premier Football 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
 
 
